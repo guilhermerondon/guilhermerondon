@@ -1,5 +1,5 @@
 ### Hi!!! Guilherme Rondon is here.👌
-<h1>📚Se formando em Analise e Desenvolvimento de Sistemas</h1>
+<h1>Studying Systems Analysis and Development📚</h1>
 
 <a href="https://github.com/guilhermerondon/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&show_icons=true&theme=dark" />
