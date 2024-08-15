@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm in the college of analysis and systems development. <br>📫 Reach me: worktradestudygrra@.com</p> 
-
-###
-
 <br clear="both">
 
 <h2 align="left">Skills and tools</h2>
