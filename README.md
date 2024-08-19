@@ -8,6 +8,12 @@
 
 <br clear="both">
 
+<h2 align="left">About Me</h2>
+
+<p align="left">I'm passionate about code and have been programming since 2020.</p>
+
+###
+
 <h2 align="left">Skills and tools</h2>
 
 ###
