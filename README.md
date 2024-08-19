@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👍, Rondon is here!!! </h1>
+<h1 align="center">Hi 👍, Rondon is here!!!</h1>
 
 ###
 
@@ -28,8 +28,8 @@
   <img src="https://streak-stats.demolab.com?user=guilhermerondon&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
 ###
+
 <br clear="both">
 
 <div align="center">
@@ -42,4 +42,12 @@
   <a href="https://www.instagram.com/rondxn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3ov9k6dTQZlpG6nUys/giphy.gif" alt="Anime studying GIF" height="200"/>
 </div>
