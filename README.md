@@ -30,9 +30,3 @@
 
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.guilhermerondon.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
