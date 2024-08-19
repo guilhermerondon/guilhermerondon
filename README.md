@@ -49,5 +49,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.tenor.com/UHYgSGkjpusAAAAM/anime-read-book.gif" alt="Anime reading book GIF" height="200"/>
+  <img src="https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" alt="Anime computer nerds GIF" height="200"/>
 </div>
