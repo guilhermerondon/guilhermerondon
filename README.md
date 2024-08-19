@@ -4,7 +4,7 @@
 
 <p align="left">I'm a backend developer</p>
 
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Skills and tools</h2>
+<h2 align="center">Skills and tools</h2>
 
 ###
 
