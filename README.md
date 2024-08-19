@@ -49,5 +49,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://file.notion.so/f/f/b0a9c1a9-fe72-444d-a08b-300cf7fa44a1/5d345a1b-3c45-4558-9cb8-4d39aa26513f/a0d581666d26dd9c66bf8ed395cba948.gif?table=block&id=e980c28e-f90e-4afa-9b10-586d972acfc6&spaceId=b0a9c1a9-fe72-444d-a08b-300cf7fa44a1&expirationTimestamp=1724198400000&signature=jIvoyOvYDW8_h8T9ekkxQ4kPduqtMZZnqSwhU5YynI4" alt="Anime studying GIF" height="200"/>
+  <img src="https://media.tenor.com/UHYgSGkjpusAAAAM/anime-read-book.gif" alt="Anime reading book GIF" height="200"/>
 </div>
