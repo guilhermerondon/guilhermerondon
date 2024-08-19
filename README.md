@@ -49,5 +49,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Anime studying GIF" height="200"/>
+  <img src="YOUR_GIF_LINK_HERE" alt="Anime studying GIF" height="200"/>
 </div>
