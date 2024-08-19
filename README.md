@@ -4,8 +4,6 @@
 
 <p align="left">I'm a backend developer</p>
 
-###
-
 <br clear="both">
 
 <h2 align="left">About Me</h2>
