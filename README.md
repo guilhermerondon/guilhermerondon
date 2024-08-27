@@ -1,19 +1,23 @@
 <h1 align="center">Hello, I'm Rondon 👋!</h1>
 
 ###
+###
 
 <p align="left">I'm a backend developer</p>
 
 <h2 align="center">About Me</h2>
 
 ###
+###
 
 <p align="left">I'm passionate about code and have been programming since 2020.</p>
 
 ###
+###
 
 <h2 align="center">Skills and Tools</h2>
 
+###
 ###
 
 <p align="center">
