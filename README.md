@@ -62,3 +62,17 @@
 <div align="center">
   <img src="https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" alt="Anime computer nerds GIF" height="200"/>
 </div>
+
+###
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Steam logo" />
+  </a>
+  <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=bc06708bf0e943bd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Spotify logo" />
+  </a>
+</div>
