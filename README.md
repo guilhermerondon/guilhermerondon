@@ -43,13 +43,13 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank" style="outline: none; margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://discord.gg/PZQ7j35H" target="_blank">
+  <a href="https://discord.gg/3SN24cyjkm" target="_blank" style="outline: none; margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
   </a>
-  <a href="https://www.instagram.com/rondxn/" target="_blank">
+  <a href="https://www.instagram.com/rondxn/" target="_blank" style="outline: none; margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
 </div>
@@ -69,10 +69,10 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank" style="outline: none; margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Steam logo" />
   </a>
-  <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=bc06708bf0e943bd" target="_blank">
+  <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=bc06708bf0e943bd" target="_blank" style="outline: none; margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Spotify logo" />
   </a>
 </div>
