@@ -1,23 +1,19 @@
 <h1 align="center">Hello, I'm Rondon 👋!</h1>
 
 ###
-###
 
 <p align="left">I'm a backend developer</p>
 
 <h2 align="center">About Me</h2>
 
 ###
-###
 
 <p align="left">I'm passionate about code and have been programming since 2020.</p>
 
 ###
-###
 
 <h2 align="center">Skills and Tools</h2>
 
-###
 ###
 
 <p align="center">
@@ -26,7 +22,6 @@
   </a>
 </p>
 
-###
 ###
 
 <br clear="both">
@@ -37,7 +32,6 @@
   <img src="https://streak-stats.demolab.com?user=guilhermerondon&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 ###
 
 <br clear="both">
@@ -55,7 +49,6 @@
 </div>
 
 ###
-###
 
 <br clear="both">
 
@@ -64,7 +57,8 @@
 </div>
 
 ###
-###
+
+<h2 align="center">Hobbies</h2>
 
 <br clear="both">
 
