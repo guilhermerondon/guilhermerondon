@@ -1,18 +1,18 @@
-<h1 align="center">Hello, I'm Rondon 👋!</h1>
+<h1 align="center" style="color: #42ff00;">Hello, I'm Rondon 👋!</h1>
 
 ###
 
-<p align="left">I'm a backend developer</p>
+<p align="left" style="color: #000000;">I'm a backend developer</p>
 
-<h2 align="center">About Me</h2>
-
-###
-
-<p align="left">I'm passionate about code and have been programming since 2020.</p>
+<h2 align="center" style="color: #3add00;">About Me</h2>
 
 ###
 
-<h2 align="center">Skills and Tools</h2>
+<p align="left" style="color: #000000;">I'm passionate about code and have been programming since 2020.</p>
+
+###
+
+<h2 align="center" style="color: #3add00;">Skills and Tools</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<h2 align="center">Hobbies</h2>
+<h2 align="center" style="color: #3add00;">Hobbies</h2>
 
 <br clear="both">
 
