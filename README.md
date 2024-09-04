@@ -53,7 +53,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" alt="Anime computer nerds GIF" height="200"/>
+  <img src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif" alt="Anime Paprika GIF" height="200"/>
 </div>
 
 ###
