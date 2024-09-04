@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank">
     <img src="https://img.icons8.com/ios/50/0077B5/linkedin.png" width="50" height="50" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/3SN24cyjkm" target="_blank">
+  <a href="https://discord.com/invite/DhtZBYQmNV" target="_blank">
     <img src="https://img.icons8.com/ios/50/7289DA/discord.png" width="50" height="50" alt="Discord" />
   </a>
 </div>
