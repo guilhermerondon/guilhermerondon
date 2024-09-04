@@ -1,18 +1,18 @@
-<h1 align="center">Hello, I'm Rondon 👋!</h1>
+<h1 align="center" style="color:#1DB954;">Hello, I'm Rondon</h1>
 
 ###
 
-<p align="left">I'm a backend developer</p>
+<p align="left" style="color:#000000;">I'm a backend developer</p>
 
-<h2 align="center">About Me</h2>
-
-###
-
-<p align="left">I'm passionate about code and have been programming since 2020.</p>
+<h2 align="center" style="color:#1DB954;">About Me</h2>
 
 ###
 
-<h2 align="center">Skills and Tools</h2>
+<p align="left" style="color:#000000;">I'm passionate about code and have been programming since 2020.</p>
+
+###
+
+<h2 align="center" style="color:#1DB954;">Skills and Tools</h2>
 
 ###
 
@@ -38,13 +38,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank" style="outline: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://discord.gg/3SN24cyjkm" target="_blank" style="outline: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
   </a>
   <a href="https://www.instagram.com/rondxn/" target="_blank" style="outline: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
 </div>
 
@@ -58,9 +58,9 @@
 
 ###
 
-<h2 align="center">Hobbies</h2>
-
 <br clear="both">
+
+<h2 align="center" style="color:#1DB954;">Hobbies</h2>
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank" style="outline: none; margin: 0 5px;">
