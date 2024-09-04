@@ -38,10 +38,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&logoWidth=35" height="35" width="35" style="background-color: rgba(0, 119, 181, 0.5);" alt="LinkedIn logo" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35" style="background-color: rgba(0, 119, 181, 0.5); border-radius: 5px;" alt="LinkedIn" />
   </a>
   <a href="https://discord.gg/3SN24cyjkm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge&logoWidth=35" height="35" width="35" style="background-color: rgba(114, 137, 218, 0.5);" alt="Discord logo" />
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="35" height="35" style="background-color: rgba(114, 137, 218, 0.5); border-radius: 5px;" alt="Discord" />
   </a>
 </div>
 
@@ -67,6 +67,6 @@
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Spotify logo" />
   </a>
   <a href="https://www.instagram.com/rondxn/" target="_blank" style="outline: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?message=&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge&logoWidth=35" height="25" width="35" style="background-color: rgba(228, 64, 95, 0.5);" alt="Instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
 </div>
