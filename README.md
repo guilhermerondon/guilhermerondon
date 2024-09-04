@@ -52,12 +52,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif" alt="Anime Paprika GIF" height="200"/>
-</div>
-
-###
-
 <h2 align="center">Hobbies</h2>
 
 <br clear="both">
@@ -72,4 +66,12 @@
   <a href="https://www.instagram.com/rondxn/" target="_blank">
     <img src="https://img.icons8.com/ios/50/E4405F/instagram-new.png" width="35" height="35" alt="Instagram" />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif" alt="Anime Paprika GIF" height="200"/>
 </div>
