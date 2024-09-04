@@ -60,13 +60,13 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank" style="outline: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Steam logo" />
+  <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/steam.png" width="35" height="35" style="background-color: rgba(0, 0, 0, 0.5); border-radius: 5px;" alt="Steam" />
   </a>
-  <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=bc06708bf0e943bd" target="_blank" style="outline: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Spotify logo" />
+  <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=bc06708bf0e943bd" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/spotify.png" width="35" height="35" style="background-color: rgba(30, 215, 96, 0.5); border-radius: 5px;" alt="Spotify" />
   </a>
-  <a href="https://www.instagram.com/rondxn/" target="_blank" style="outline: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
+  <a href="https://www.instagram.com/rondxn/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="35" height="35" style="background-color: rgba(193, 53, 132, 0.5); border-radius: 5px;" alt="Instagram" />
   </a>
 </div>
