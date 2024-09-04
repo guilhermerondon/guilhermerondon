@@ -38,10 +38,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35" style="background-color: rgba(0, 119, 181, 0.5); border-radius: 5px;" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios/50/0077B5/linkedin.png" width="35" height="35" alt="LinkedIn" />
   </a>
   <a href="https://discord.gg/3SN24cyjkm" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="35" height="35" style="background-color: rgba(114, 137, 218, 0.5); border-radius: 5px;" alt="Discord" />
+    <img src="https://img.icons8.com/ios/50/7289DA/discord.png" width="35" height="35" alt="Discord" />
   </a>
 </div>
 
@@ -61,12 +61,12 @@
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/steam.png" width="35" height="35" style="background-color: rgba(0, 0, 0, 0.5); border-radius: 5px;" alt="Steam" />
+    <img src="https://img.icons8.com/ios/50/FFFFFF/steam.png" width="35" height="35" alt="Steam" />
   </a>
   <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=bc06708bf0e943bd" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/spotify.png" width="35" height="35" style="background-color: rgba(30, 215, 96, 0.5); border-radius: 5px;" alt="Spotify" />
+    <img src="https://img.icons8.com/ios/50/1DB954/spotify.png" width="35" height="35" alt="Spotify" />
   </a>
   <a href="https://www.instagram.com/rondxn/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="35" height="35" style="background-color: rgba(193, 53, 132, 0.5); border-radius: 5px;" alt="Instagram" />
+    <img src="https://img.icons8.com/ios/50/E4405F/instagram-new.png" width="35" height="35" alt="Instagram" />
   </a>
 </div>
