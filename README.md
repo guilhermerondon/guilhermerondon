@@ -43,9 +43,6 @@
   <a href="https://discord.gg/3SN24cyjkm" target="_blank" style="outline: none; margin: 0 5px;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
-  <a href="https://www.instagram.com/rondxn/" target="_blank" style="outline: none; margin: 0 5px;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
 </div>
 
 ###
