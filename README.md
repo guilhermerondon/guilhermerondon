@@ -58,13 +58,13 @@
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/FFFFFF/steam.png" width="35" height="35" alt="Steam" />
+    <img src="https://img.icons8.com/ios/50/FFFFFF/steam.png" width="50" height="50" alt="Steam" />
   </a>
   <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=bc06708bf0e943bd" target="_blank">
-    <img src="https://img.icons8.com/ios/50/1DB954/spotify.png" width="35" height="35" alt="Spotify" />
+    <img src="https://img.icons8.com/ios/50/1DB954/spotify.png" width="50" height="50" alt="Spotify" />
   </a>
   <a href="https://www.instagram.com/rondxn/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/E4405F/instagram-new.png" width="35" height="35" alt="Instagram" />
+    <img src="https://img.icons8.com/ios/50/E4405F/instagram-new.png" width="50" height="50" alt="Instagram" />
   </a>
 </div>
 
