@@ -1,12 +1,20 @@
 <h1 align="center">Hello, I'm Rondon 👋!</h1>
 
+###
+
 <p align="left">I'm a backend developer</p>
 
 <h2 align="center">About Me</h2>
 
+###
+
 <p align="left">I'm passionate about code and have been programming since 2020.</p>
 
+###
+
 <h2 align="center">Skills and Tools</h2>
+
+###
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,13 +22,17 @@
   </a>
 </p>
 
+###
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermerondon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark-green&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=guilhermerondon&locale=en&mode=daily&theme=dark-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermerondon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=guilhermerondon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
 
 <br clear="both">
 
@@ -33,11 +45,15 @@
   </a>
 </div>
 
+###
+
 <br clear="both">
 
 <div align="center">
   <img src="https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" alt="Anime computer nerds GIF" height="200"/>
 </div>
+
+###
 
 <h2 align="center">Hobbies</h2>
 
