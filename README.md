@@ -2,6 +2,8 @@
 
 <p align="left">I'm a backend developer</p>
 
+##
+
 <h2 align="center">About Me</h2>
 
 <p align="left">I'm passionate about code and have been programming since 2020.</p>
