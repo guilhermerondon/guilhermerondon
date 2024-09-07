@@ -35,7 +35,7 @@
     <img src="https://img.icons8.com/ios/50/7289DA/discord.png" width="50" height="50" alt="Discord" />
   </a>
   <a href="mailto:guilhermerondon.dev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios/50/ff0000/gmail-new.png" width="50" height="50" alt="Gmail" />
+    <img src="https://img.icons8.com/ios/50/ffffff/gmail.png" width="50" height="50" alt="Gmail" />
   </a>
 </div>
 
