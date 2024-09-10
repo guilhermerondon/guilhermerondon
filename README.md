@@ -55,6 +55,9 @@
   <a href="https://www.instagram.com/rondxn/" target="_blank">
     <img src="https://img.icons8.com/ios/50/E4405F/instagram-new.png" width="50" height="50" alt="Instagram" />
   </a>
+  <a href="https://www.chess.com/member/sickxfyou" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/chess.png" width="50" height="50" alt="Chess.com" />
+  </a>
 </div>
 
 <br clear="both">
