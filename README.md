@@ -53,8 +53,11 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 <!-- Div para LinkedIn e Gmail com apenas os logos -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-rondon/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank">
     <img src="https://img.icons8.com/ios/50/0077B5/linkedin.png" width="50" height="50" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/invite/DhtZBYQmNV" target="_blank">
+    <img src="https://img.icons8.com/ios/50/7289DA/discord.png" width="50" height="50" alt="Discord" />
   </a>
   <a href="mailto:guilhermerondon.dev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios/50/FF0000/gmail.png" width="50" height="50" alt="Gmail" />
