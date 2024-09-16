@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=64fa03&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38fa64&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
@@ -98,5 +98,5 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 ![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=49ff00&style=plastic&label=profile+views)
 
 <a href="https://github.com/guilhermerondon">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ff00&height=180&section=footer&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38fa64&height=180&section=footer&animation=twinkling&fontAlignY=55"/>
 </a>
