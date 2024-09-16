@@ -35,8 +35,8 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 ---
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerondon&hide_progress=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="Most Used Languages">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&show_icons=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="GitHub Stats">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerondon&hide_progress=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="Most Used Languages">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&show_icons=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="GitHub Stats">
 </div>
 
 ---
