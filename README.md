@@ -96,4 +96,6 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=49ff00&style=plastic&label=profile+views)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=42ff00&height=120&section=footer"/>
+<a href="https://github.com/guilhermerondon">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ff00&height=180&section=footer&animation=twinkling&fontAlignY=55"/>
+</a>
