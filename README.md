@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon)
+
 <h1 align="center">Hello, I'm Rondon 👋!</h1>
 
 <p align="left">I'm a backend developer</p>
