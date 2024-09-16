@@ -67,4 +67,4 @@
   <img src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif" alt="Anime Paprika GIF" height="200"/>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=#49ff00&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=49ff00&style=flat-square&label=Profile+Views)
