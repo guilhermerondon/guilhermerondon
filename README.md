@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fff4c&size=35&center=true&vCenter=true&width=1000&lines=+About+Me+💈!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=+About+Me+💈!)](https://git.io/typing-svg)
 
 I am a Backend Developer specializing in .NET, dedicated to crafting robust and scalable solutions. My passion lies in exploring new technologies and continually improving my skill set. I thrive on contributing to the tech community and am currently advancing towards becoming a proficient Full-Stack Developer. My goal is to leverage my expertise to deliver innovative solutions and drive impactful projects.
 
@@ -26,7 +26,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 <div align="center">
   <a href="https://github.com/guilhermerondon">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=10000&pause=5000&color=49ff00&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=10000&pause=5000&color=ffffff&vCenter=true&width=350&height=30&lines=A+LITTLE+ABOUT+MY+STUDY+FOCUS"/></a>
 
   | <h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=3500&color=49ff00&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=4000&color=49ff00&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=4500&color=49ff00&vCenter=true&width=75&height=20&lines=Mobile" alt="Typing SVG" /></h2> |
   | - | - | - | - | - |
@@ -50,7 +50,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
   <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=radical&bg_color=000000&title_color=ffffff&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=25&center=true&vCenter=true&width=1000&lines=+Where+to+Find+Me:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=+Where+to+Find+Me:)](https://git.io/typing-svg)
 
 <!-- Div para LinkedIn e Gmail com apenas os logos -->
 <div align="center">
@@ -67,7 +67,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=25&center=true&vCenter=true&width=1000&lines=+My;+Hobbies:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=+My;+Hobbies:)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank">
@@ -95,7 +95,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=49ff00&style=plastic&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=38fa64&style=plastic&label=profile+views)
 
 <a href="https://github.com/guilhermerondon">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38fa64&height=180&section=footer&animation=twinkling&fontAlignY=55"/>
