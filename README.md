@@ -49,7 +49,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=onedark&bg_color=000000&title_color=ffffff&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=matrix&bg_color=000000&title_color=ffffff&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=+Where+to+Find+Me:)](https://git.io/typing-svg)
