@@ -71,7 +71,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=+My;+Hobbies:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=+My+Hobbies:)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank">
@@ -102,5 +102,5 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 ![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=38fa64&style=plastic&label=profile+views)
 
 <a href="https://github.com/guilhermerondon">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff3a&height=180&section=footer&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff3a&height=130&section=footer&animation=twinkling&fontAlignY=55"/>
 </a>
