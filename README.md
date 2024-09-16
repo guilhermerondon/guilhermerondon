@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=green&style=flat-square&label=Profile+Views)
 
 <h1 align="center">Hello, I'm Rondon 👋!</h1>
 
@@ -67,3 +66,5 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif" alt="Anime Paprika GIF" height="200"/>
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=green&style=flat-square&label=Profile+Views)
