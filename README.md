@@ -10,7 +10,7 @@
   <p><strong>.NET Developer | Passionate About Technology and AI</strong></p>
 </div>
 
-<div style="display: flex; justify-content: space-around; align="center">
+<div align="center" style="display: flex; justify-content: space-around;">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
@@ -34,7 +34,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerondon&hide_progress=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="Most Used Languages">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&show_icons=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="GitHub Stats">
 </div>
@@ -88,9 +88,5 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=49ff00&style=plastic&label=profile+views)
-
-
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=42ff00&height=120&section=footer"/>
