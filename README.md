@@ -36,7 +36,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerondon&hide_progress=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="Most Used Languages">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&show_icons=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="GitHub Stats">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&show_icons=true&theme=radical&bg_color=000000&border_color=42ff00&text_color=42ff00&title_color=ffffff" alt="GitHub Stats">
 </div>
 
 ---
@@ -45,7 +45,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
   <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=radical&bg_color=000000&title_color=ffffff&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=45&center=true&vCenter=true&width=1000&lines=+Where+to+Find+Me:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=25&center=true&vCenter=true&width=1000&lines=+Where+to+Find+Me:)](https://git.io/typing-svg)
 
 <!-- Div para LinkedIn e Gmail com apenas os logos -->
 <div align="center">
@@ -59,7 +59,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=45&center=true&vCenter=true&width=1000&lines=+My;+Hobbies:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=25&center=true&vCenter=true&width=1000&lines=+My;+Hobbies:)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://steamcommunity.com/profiles/76561199023274455/" target="_blank">
