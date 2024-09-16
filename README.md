@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=42ff00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=45&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="300" src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif">
@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 </div>
 
-## 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42ff00&size=35&center=true&vCenter=true&width=1000&lines=+About+💈!)](https://git.io/typing-svg)
+
 I am a Backend Developer specializing in .NET, dedicated to crafting robust and scalable solutions. My passion lies in exploring new technologies and continually improving my skill set. I thrive on contributing to the tech community and am currently advancing towards becoming a proficient Full-Stack Developer. My goal is to leverage my expertise to deliver innovative solutions and drive impactful projects.
 
 ---
