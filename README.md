@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon)
+![Profile Views](https://komarev.com/ghpvc/?username=guilhermerondon&color=green&style=flat-square&label=Profile+Views)
 
 <h1 align="center">Hello, I'm Rondon 👋!</h1>
 
