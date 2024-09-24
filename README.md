@@ -1,8 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=header&animation=fadeIn"/>
 
 
-[![Spotify](https://novatorem-7jd88faye-guilhermes-projects-aa72f0f0.vercel.app/api/spotify)](https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
@@ -91,5 +89,9 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
   <p>Visitor count:</p>
   <img src="https://komarev.com/ghpvc/?username=guilhermerondon&label=Profile%20views&color=fe2b2b&style=flat" alt="visitor counter">
 </div>
+
+
+[![Spotify](https://https://novatorem-git-main-guilhermes-projects-aa72f0f0.vercel.app//api/spotify)](https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1)
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=footer"/>
