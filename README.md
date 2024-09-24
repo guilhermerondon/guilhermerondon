@@ -63,8 +63,24 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 <!-- Where to Find Me Section -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=Where+to+Find+Me)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank">
-      <a href="https://www.instagram.com/rondxn/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/E4405F/instagram-new.png" width="50" height="50" alt="Instagram" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
+  <a href="mailto:guilhermerondon.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://www.instagram.com/rondxn/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+</div>
+
+---
+
+<!-- Footer Section -->
+<div align="center">
+  <p>Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate.</p>
+  <img width="250" src="https://media.tenor.com/Y4w_3HkZ2qAAAAAC/waving-goodbye-anime.gif" alt="Waving Goodbye GIF">
+  <p>Last updated: <strong>September 2024</strong></p>
+</div>
+
+<!-- Footer animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=footer"/>
