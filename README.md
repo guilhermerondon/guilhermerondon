@@ -67,7 +67,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=Where+to+Find+Me)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilhermerondon/">
+  <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://www.instagram.com/rondxn/">
