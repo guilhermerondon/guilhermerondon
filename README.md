@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=header&animation=fadeIn"/>
-![Matrix Rain](https://cdn.jsdelivr.net/gh/username/matrix-rain/matrix.svg)
+[![Matrix Rain](https://cdn.jsdelivr.net/gh/username/matrix-rain/matrix.svg)]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
