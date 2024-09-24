@@ -81,7 +81,6 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 <!-- Footer Section -->
 <div align="center">
   <p>Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate.</p>
-  <img width="250" src="https://media.tenor.com/Y4w_3HkZ2qAAAAAC/waving-goodbye-anime.gif" alt="Waving Goodbye GIF">
 </div>
 
 <!-- Visitor Counter Section -->
@@ -89,8 +88,5 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
   <p>Visitor count:</p>
   <img src="https://komarev.com/ghpvc/?username=guilhermerondon&label=Profile%20views&color=fe2b2b&style=flat" alt="visitor counter">
 </div>
-
-
-[![Spotify](https://novatorem-obs1cvicq-guilhermes-projects-aa72f0f0.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=footer"/>
