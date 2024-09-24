@@ -79,9 +79,9 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 ---
 
 <!-- Footer Section -->
-<div align="center">
-  <p>Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate.</p>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=dark&title_color=fe2b2b&border_color=fe2b2b&column=3&margin-w=0&margin-h=0&row=1&no-frame=true&margin=15&background=transparent" alt="GitHub Trophies">
+</p>
 
 <!-- Visitor Counter Section -->
 <div align="center">
