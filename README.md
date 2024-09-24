@@ -77,6 +77,13 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 ---
 
+<!-- Footer Section -->
+<div align="center">
+  <p>Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate.</p>
+  <img width="250" src="https://media.tenor.com/Y4w_3HkZ2qAAAAAC/waving-goodbye-anime.gif" alt="Waving Goodbye GIF">
+  <p>Last updated: <strong>September 2024</strong></p>
+</div>
+
 <!-- Visitor Counter Section -->
 <div align="center">
   <p>Visitor count:</p>
