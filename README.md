@@ -81,6 +81,9 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 ---
 
 <!-- Footer Section -->
+<div align="center">
+  <p>Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate.</p>
+</div>
 
 <!-- Visitor Counter Section -->
 <div align="center">
