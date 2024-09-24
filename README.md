@@ -58,7 +58,7 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 
 <!-- Trophies Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=dark&bg_color=000000&title_color=fe2b2b&border_color=fe2b2b&column=3&margin-w=0&margin-h=0&row=1&no-frame=true&margin=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=kimbie_dark&bg_color=000000&title_color=fe2b2b&border_color=fe2b2b&column=3&margin-w=0&margin-h=0&row=1&no-frame=true&margin=15" alt="GitHub Trophies">
 </p>
 
 ---
