@@ -94,4 +94,6 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 [![Spotify](https://https://novatorem-git-main-guilhermes-projects-aa72f0f0.vercel.app//api/spotify)](https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1)
 
 
+[![Spotify](novatorem-obs1cvicq-guilhermes-projects-aa72f0f0.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=footer"/>
