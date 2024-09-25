@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=header&animation=fadeIn"/>
 
+[![Spotify](https://novatorem-mlhrgeze8-guilhermes-projects-aa72f0f0.vercel.app/api/spotify)](https://open.spotify.com/user/rondxn)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
