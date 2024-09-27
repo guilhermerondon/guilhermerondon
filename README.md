@@ -8,6 +8,10 @@
   </a>
 </div>
 
+
+---
+
+
 <div align="center">
   <p><strong>.NET Developer | Passionate About Technology and AI</strong></p>
 </div>
