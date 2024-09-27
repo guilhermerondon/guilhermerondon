@@ -1,6 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=header&animation=fadeIn"/>
 
-[![Spotify](https://novatorem-8l7ijpmyv-guilhermes-projects-aa72f0f0.vercel.app/api/spotify)](https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1)
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://novatorem-8l7ijpmyv-guilhermes-projects-aa72f0f0.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
+         alt="I love Spotify!"/>
+  </a>
+   <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://novatorem-8l7ijpmyv-guilhermes-projects-aa72f0f0.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7" 
+         alt="I love Spotify!"/>
+  </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
