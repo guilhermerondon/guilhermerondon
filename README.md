@@ -1,12 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=header&animation=fadeIn"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=55&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 <div align="center">
-  <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=32959998af844353" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=frly06l5qc9y8oppjienkhkz1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-  </a>
+  <img width="300" src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=55&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
   <p><strong>.NET Developer | Passionate About Technology and AI</strong></p>
@@ -82,6 +81,13 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 ---
 
 <!-- Footer Section -->
+<div align="center">
+  <a href="https://open.spotify.com/user/frly06l5qc9y8oppjienkhkz1?si=32959998af844353" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=frly06l5qc9y8oppjienkhkz1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
+</div>
+
+
 
 <div align="center">
   <img width="300" src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif">
