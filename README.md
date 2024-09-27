@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="300" src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=frly06l5qc9y8oppjienkhkz1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
 </div>
 
 <div align="center">
@@ -80,10 +82,9 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
 ---
 
 <!-- Footer Section -->
+
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=frly06l5qc9y8oppjienkhkz1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
-  </a>
+  <img width="300" src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif">
 </div>
 
 <div align="center">
