@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fe2b2b&height=130&section=header&animation=fadeIn"/>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=frly06l5qc9y8oppjienkhkz1&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=frly06l5qc9y8oppjienkhkz1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=08f500&bar_color_cover=true)]]
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello✍;+I+am+Guilherme+Rondon;+I'm+22+years+old;+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
