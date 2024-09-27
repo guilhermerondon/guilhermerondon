@@ -6,7 +6,6 @@
   <img width="300" src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif">
 </div>
 
-
 <div align="center">
   <p><strong>.NET Developer | Passionate About Technology and AI</strong></p>
 </div>
@@ -87,16 +86,9 @@ I am a Backend Developer specializing in .NET, dedicated to crafting robust and 
   </a>
 </div>
 
-
-
-<div align="center">
-  <img width="300" src="https://media1.tenor.com/m/w_CSC6rUpboAAAAC/anime-paprika.gif">
-</div>
-
 <div align="center">
   <p>Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate.</p>
 </div>
-
 
 <!-- Visitor Counter Section -->
 <div align="center">
