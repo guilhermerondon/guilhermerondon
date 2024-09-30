@@ -23,7 +23,7 @@
 <!-- About Me Section -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=About+Me+💈)](https://git.io/typing-svg)
 
-I am a Backend Developer specializing in .NET, dedicated to crafting robust and scalable solutions. My passion lies in exploring new technologies and continually improving my skill set. I thrive on contributing to the tech community and am currently advancing towards becoming a proficient Full-Stack Developer. My goal is to leverage my expertise to deliver innovative solutions and drive impactful projects.
+I am a Backend Developer specializing in .NET, focused on building scalable solutions. I'm passionate about learning new technologies and continuously improving my skills. Currently, I'm advancing towards becoming a Full-Stack Developer, aiming to deliver innovative solutions and impactful projects.
 
 ---
 
