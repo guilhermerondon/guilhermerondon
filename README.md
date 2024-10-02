@@ -67,7 +67,7 @@ I am a Backend Developer specializing in .NET, focused on building scalable solu
 ---
 
 <!-- Where to Find Me Section -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=Where+to+Find+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=1000&lines=Where+to+Find+Me+:)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/">
