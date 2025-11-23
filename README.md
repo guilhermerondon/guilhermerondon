@@ -7,23 +7,16 @@
 </div>
 
 <div align="center">
-  <p><strong>Backend & Cloud Developer | Foco em Soluções Escaláveis e Containers</strong></p>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Azure Badge">
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+  <p><strong>Backend & Cloud Developer | Focus on Scalable Solutions </strong></p>
 </div>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=About+Me+💈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=About+Me+)](https://git.io/typing-svg)
 
-I am a **Backend Engineer** focused on designing and deploying **scalable, resilient solutions** with an emphasis on **Cloud Native** architecture and **containers (Docker/Kubernetes)**.
+I am a **Backend Engineer** focused on designing and deploying **scalable, resilient solutions** with an emphasis on **Cloud Native** architecture and **containers**.
 
-I develop applications using various technology stacks, including **Python (Django)** in my current role, and possess expertise in database management (**PostgreSQL/SQL Server**) and API testing (**Postman**). I apply my knowledge to build efficient backends and robust CI/CD pipelines, always seeking to improve quality, performance, and developer experience. I'm also advancing towards becoming a Full-Stack Developer, aiming to deliver innovative solutions and impactful projects.
+I develop applications using various technology stacks, currently using **Python (Django)** in my study path and projects, and having a **strong knowledge** base in **C# (.NET)** for software development. My studies include specialized knowledge in database management (**PostgreSQL/SQL Server**) and API testing (**Postman**). I apply this knowledge to design and build efficient backends and robust CI/CD pipelines, always seeking to improve quality, performance, and developer experience. I'm also advancing towards becoming a Full-Stack Developer, aiming to deliver innovative solutions and impactful projects.
 
 ---
 
@@ -64,11 +57,9 @@ I develop applications using various technology stacks, including **Python (Djan
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.instagram.com/rondxn/">
+  </a><a href="https://www.instagram.com/rondxn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>
-  <a href="mailto:guilhermerondon.dev@gmail.com">
+  </a><a href="mailto:guilhermerondon.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </div>
