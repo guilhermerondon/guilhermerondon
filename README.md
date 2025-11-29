@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=About+Me+)](https://git.io/typing-svg)
 
-I am a **Backend Engineer** focused on designing and deploying **scalable, resilient solutions** with an emphasis on **Cloud Native** architecture and **containers**.
+I am a **Backend Engineer** focused on designing and deploying **scalable, resilient solutions** with an emphasis on **Cloud Native** architecture and containers.
 
 I develop applications using various technology stacks, currently using **Python (Django)** in my study path and projects, and having a **strong knowledge** base in **C# (.NET)** for software development. My studies include specialized knowledge in database management (**PostgreSQL/SQL Server**) and API testing (**Postman**). I apply this knowledge to design and build efficient backends and robust CI/CD pipelines, always seeking to improve quality, performance, and developer experience. I'm also advancing towards becoming a Full-Stack Developer, aiming to deliver innovative solutions and impactful projects.
 
