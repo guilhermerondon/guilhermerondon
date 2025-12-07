@@ -8,6 +8,10 @@
 
 <div align="center">
   <p><strong>Backend & Cloud Developer | Focus on Scalable Solutions </strong></p>
+
+    
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs,java,docker,kubernetes,postgres,azure,git,mysql,postman&theme=dark&perline=5" alt="My Skills" />
 </div>
 
 ---
@@ -30,24 +34,20 @@ I develop applications using various technology stacks, currently using **Python
 
 | <h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=3500&color=ffffff&vCenter=true&width=110&height=20&lines=Front-end" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=4000&color=ffffff&vCenter=true&width=100&height=20&lines=Back-End" alt="Typing SVG" /></h2> | | <h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=4500&color=ffffff&vCenter=true&width=75&height=20&lines=DevOps" alt="Typing SVG" /></h2> |
 | :--: | :--: | :--: | :--: | :--: |
-| <h3 align="center"> <img width="100px" src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </br> <img width="100px" src="https://img.shields.io/badge/React-00e6ff?style=for-the-badge&logo=react&logoColor=black"/> </br> <img width="100px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/angular-cc1d35?style=for-the-badge&logo=angular&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/CSS3-ad1df0?style=for-the-badge&logo=css3&logoColor=white"/> </br> </h3> |  | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/C%23-37b842?style=for-the-badge&logo=csharp&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Java-FB6F00?style=for-the-badge&logo=java&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF00"/> </br> </h3> |  | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Azure_DevOps-0088D4?style=for-the-badge&logo=azure-devops&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/New_Relic-FF6F00?style=for-the-badge&logo=new-relic&logoColor=white"/> </br> <img width="100px" src="https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&color=1F1F1F"/> </h3> |
-
+| <h3 align="center"> <img width="100px" src ="https://img.shields.io/badge/TypeScript-171717?style=for-the-badge&logo=TypeScript&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/javascript-171717?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br> <img width="100px" src="https://img.shields.io/badge/React-171717?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br> <img width="100px" src="https://img.shields.io/badge/Next.js-171717?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/angular-171717?style=for-the-badge&logo=angular&logoColor=dd0031"/> <br> <img width="100px" src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=white"/> </h3> |  | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=postgresql&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/SQL%20Server-171717?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/C%23-171717?style=for-the-badge&logo=csharp&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/Golang-171717?style=for-the-badge&logo=go&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/Java-171717?style=for-the-badge&logo=java&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=nodedotjs&logoColor=339933"/> </h3> |  | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/Kubernetes-171717?style=for-the-badge&logo=kubernetes&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/Azure_DevOps-171717?style=for-the-badge&logo=azure-devops&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/Postman-171717?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <br> <img width="100px" src="https://img.shields.io/badge/Jenkins-171717?style=for-the-badge&logo=jenkins&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/New_Relic-171717?style=for-the-badge&logo=new-relic&logoColor=white"/> <br> <img width="100px" src="https://img.shields.io/badge/GitLab_CI/CD-171717?style=for-the-badge&logo=gitlab&logoColor=white"/> </h3> |
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermerondon&theme=github_dark" alt="profile details" />
-  <br />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermerondon&theme=github_dark" alt="top languages" />
-  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermerondon&bg_color=171717&color=ffffff&line=1E90FF&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+</div>
   
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=kimbie_dark&bg_color=000000&title_color=ffffff&border_color=ffffff&column=3&margin-w=0&margin-h=0&row=1&no-frame=true&margin=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=kimbie_dark&bg_color=171717&title_color=ffffff&border_color=ffffff&column=3&margin-w=0&margin-h=0&row=1&no-frame=true&margin=15" alt="GitHub Trophies">
 </p>
 
 ---
@@ -56,11 +56,11 @@ I develop applications using various technology stacks, currently using **Python
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a><a href="https://www.instagram.com/rondxn/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    <img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a><a href="mailto:guilhermerondon.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </div>
 
@@ -83,7 +83,7 @@ I develop applications using various technology stacks, currently using **Python
 <br />
 
   
-  <img src="https://streak-stats.demolab.com/?user=guilhermerondon&locale=en&mode=daily&theme=dark&currStreakLabel=ffffff&fire=ffffff&border=ffffff&background=000000&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=guilhermerondon&locale=en&mode=daily&theme=dark&currStreakLabel=ffffff&fire=ffffff&border=ffffff&background=171717&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 
