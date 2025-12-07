@@ -47,7 +47,7 @@ I develop applications using various technology stacks, currently using **Python
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=kimbie_dark&bg_color=171717&title_color=ffffff&border_color=ffffff&column=3&margin-w=0&margin-h=0&row=1&no-frame=true&margin=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=guilhermerondon&theme=onestar&bg_color=171717&title_color=ffffff&border_color=ffffff&column=3&margin-w=0&margin-h=0&row=1&no-frame=true&margin=15" alt="GitHub Trophies">
 </p>
 
 ---
