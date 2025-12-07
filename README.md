@@ -38,12 +38,12 @@ I develop applications using various technology stacks, currently using **Python
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&bg_color=000000&border_color=ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermerondon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&bg_color=000000&border_color=ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com/?user=guilhermerondon&locale=en&mode=daily&theme=dark&currStreakLabel=ffffff&fire=ffffff&border=ffffff&background=000000&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilhermerondon&theme=github_dark" alt="profile details" />
+  <br />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guilhermerondon&theme=github_dark" alt="top languages" />
+  <br />
+  
 ---
 
 <p align="center">
@@ -80,5 +80,11 @@ I develop applications using various technology stacks, currently using **Python
   <p>Visitor count:</p>
   <img src="https://komarev.com/ghpvc/?username=guilhermerondon&label=Profile%20views&color=000000&style=flat" alt="visitor counter">
 </div>
+<br />
+
+  
+  <img src="https://streak-stats.demolab.com/?user=guilhermerondon&locale=en&mode=daily&theme=dark&currStreakLabel=ffffff&fire=ffffff&border=ffffff&background=000000&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=171717&height=130&section=footer"/>
