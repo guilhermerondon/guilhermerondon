@@ -77,7 +77,6 @@ I develop applications using various technology stacks, currently using **Python
 </div>
 
 <div align="center">
-  <p>Visitor count:</p>
   <img src="https://komarev.com/ghpvc/?username=guilhermerondon&label=Profile%20views&color=000000&style=flat" alt="visitor counter">
 </div>
 <br />
