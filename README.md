@@ -16,7 +16,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=About+Me+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=About+Me+🧑‍💻)](https://git.io/typing-svg)
 
 I am a Developer in training focused on designing and implementing scalable and resilient backend solutions. I have a strong interest and dedication to Cloud Native architecture and containers.
 
