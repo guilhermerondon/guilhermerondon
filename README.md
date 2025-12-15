@@ -73,7 +73,7 @@ I actively develop projects using Python and have a solid knowledge base in C# (
 </div>
 
 <div align="center">
-  <p>Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or would like to collaborate.</p>
+  <p>Thanks for visiting my GitHub profile!</p>
 </div>
 
 <div align="center">
