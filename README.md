@@ -3,7 +3,7 @@
 <!-- EFEITO DE DIGITAÇÃO DINÂMICO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=40&center=true&vCenter=true&width=1000&lines=Guilherme+Rondon;Engenheiro+de+Sistemas+Full+Stack;24+anos+%7C+Protocolo+de+Alta+Performance;Consistência:+Treino+e+Código+6x+por+Semana" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=40&center=true&vCenter=true&width=1000&lines=Guilherme+Rondon;Engenheiro+de+Sistemas+Full+Stack;24+anos+%7C+Protocolo+de+Alta+Performance;Consistência:+Treino+e+Código" />
   </a>
 </div>
 
