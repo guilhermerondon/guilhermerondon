@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=45&center=true&vCenter=true&width=1000&lines=Guilherme+Rondon;Engenheiro+de+Sistemas+Full+Stack;Protocolo+de+Alta+Performance)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJobXp6M21oN2Z4eG5oZzV6Z3p6Z3p6Z3p6Z3p6Z3p6Z3p6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPBMuVIXLGAo/giphy.gif">
+  <!-- GIF DE ALTA DISPONIBILIDADE: CONEXÕES NEURAIS / TECNOLOGIA -->
+  <img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 ## ⚡ Operational Protocol (Consistency & Performance)
@@ -11,8 +12,8 @@
 
 - **Status:** High-Performance Mode (Active)
 - **Disponibilidade:** 6/7 dias por semana (Foco & Disciplina)
-- **Arquitetura:** Especialista em ecossistemas Full Stack e Sistemas Distribuídos
-- **Mindset:** Engenharia de precisão aplicada do Backend à Experiência do Usuário
+- **Infraestrutura:** Especialista em ambientes Linux (Debian) e containers Docker
+- **Arquitetura:** Ecossistemas distribuídos com foco em escalabilidade e segurança
 
 ---
 
@@ -20,11 +21,12 @@
 
 <div align="center">
 
-| **Core Engine (Backend)** | **Interface (Frontend)** | **Orchestration (DevOps)** |
+| **Core Engine (Backend)** | **Interface (Frontend)** | **Orchestration & DB** |
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> | <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> | <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> |
 
 </div>
 
@@ -33,16 +35,16 @@
 ## 🚀 Ecossistema de Projetos
 
 ### 📡 [Uptime Monitor (Go)](https://github.com/guilhermerondon)
-*   **Finalidade:** Monitoramento de infraestrutura em tempo real com concorrência nativa (Goroutines).
-*   **Destaque Técnico:** Alta performance na checagem de serviços distribuídos.
+*   **Monitoramento:** Checagem de latência em tempo real com concorrência nativa.
+*   **Infra:** Orquestração via Docker e persistência em PostgreSQL.
 
 ### ⚖️ [Finance Ledger (.NET 8)](https://github.com/guilhermerondon)
-*   **Finalidade:** Gestão financeira robusta com arquitetura baseada em Repository Pattern.
-*   **Destaque Técnico:** Implementação de segurança JWT e persistência escalável.
+*   **Arquitetura:** Repository Pattern e segurança JWT para gestão financeira.
+*   **Dados:** Persistência escalável em SQL Server.
 
 ### 🍎 [Fitness API (Python)](https://github.com/guilhermerondon)
-*   **Finalidade:** Engine de cálculo nutricional e lógica de suplementação avançada.
-*   **Destaque Técnico:** Integração de FastAPI com validação estrita via Pydantic.
+*   **Lógica:** Engine de cálculo nutricional e suplementação via FastAPI.
+*   **Validação:** Modelagem de dados estrita com Pydantic.
 
 ---
 
