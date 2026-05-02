@@ -1,19 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=130&section=header&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=45&center=true&vCenter=true&width=1000&lines=Guilherme+Rondon;Engenheiro+de+Sistemas+Full+Stack;Protocolo+de+Alta+Performance)](https://git.io/typing-svg)
-
+<!-- EFEITO DE DIGITAÇÃO DINÂMICO -->
 <div align="center">
-  <!-- GIF DE ALTA DISPONIBILIDADE: CONEXÕES NEURAIS / TECNOLOGIA -->
-  <img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=40&center=true&vCenter=true&width=1000&lines=Guilherme+Rondon;Engenheiro+de+Sistemas+Full+Stack;24+anos+%7C+Protocolo+de+Alta+Performance;Consistência:+Treino+e+Código+6x+por+Semana" />
+  </a>
 </div>
 
-## ⚡ Operational Protocol (Consistency & Performance)
-> "A integridade de um sistema é o reflexo direto da disciplina de quem o projeta."
+<div align="center">
+  <img width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
+## ⚡ Operational Status
+> "A disciplina mental sustenta a arquitetura técnica."
 
 - **Status:** High-Performance Mode (Active)
-- **Disponibilidade:** 6/7 dias por semana (Foco & Disciplina)
-- **Infraestrutura:** Especialista em ambientes Linux (Debian) e containers Docker
-- **Arquitetura:** Ecossistemas distribuídos com foco em escalabilidade e segurança
+- **Protocolo:** Foco em Resiliência e Escalabilidade de Sistemas
+- **Frequência:** Compromisso diário com a evolução do ecossistema
 
 ---
 
@@ -24,9 +27,8 @@
 | **Core Engine (Backend)** | **Interface (Frontend)** | **Orchestration & DB** |
 | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> | <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> | <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
 
 </div>
 
@@ -35,16 +37,13 @@
 ## 🚀 Ecossistema de Projetos
 
 ### 📡 [Uptime Monitor (Go)](https://github.com/guilhermerondon)
-*   **Monitoramento:** Checagem de latência em tempo real com concorrência nativa.
-*   **Infra:** Orquestração via Docker e persistência em PostgreSQL.
+*   Monitoramento de infraestrutura em tempo real com concorrência nativa.
 
 ### ⚖️ [Finance Ledger (.NET 8)](https://github.com/guilhermerondon)
-*   **Arquitetura:** Repository Pattern e segurança JWT para gestão financeira.
-*   **Dados:** Persistência escalável em SQL Server.
+*   Arquitetura escalável baseada em Repository Pattern e segurança JWT.
 
 ### 🍎 [Fitness API (Python)](https://github.com/guilhermerondon)
-*   **Lógica:** Engine de cálculo nutricional e suplementação via FastAPI.
-*   **Validação:** Modelagem de dados estrita com Pydantic.
+*   Engine de cálculo nutricional e lógica de suplementação avançada.
 
 ---
 
