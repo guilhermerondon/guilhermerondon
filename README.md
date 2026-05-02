@@ -34,16 +34,20 @@
 
 ---
 
-## 🚀 Ecossistema de Projetos
+## 🚀 Ecossistema de Projetos (Portfolio)
 
-### 📡 [Uptime Monitor (Go)](https://github.com/guilhermerondon)
-*   Monitoramento de infraestrutura em tempo real com concorrência nativa.
+### 💻 [GR Interface (Angular 17)](https://github.com/guilhermerondon/guilhermerondon-interface)
+*   **Destaque:** Arquitetura reativa com **Signals** e **Sub-branding Dinâmico**.
+*   **Interface:** Design SaaS High-End com Glassmorphism e tipografia JetBrains Mono.
 
-### ⚖️ [Finance Ledger (.NET 8)](https://github.com/guilhermerondon)
-*   Arquitetura escalável baseada em Repository Pattern e segurança JWT.
+### 📡 [Infra Watchdog (Go)](https://github.com/guilhermerondon/infra-watchdog-go)
+*   **Destaque:** Monitoramento de infraestrutura em tempo real com concorrência nativa (**Goroutines**).
 
-### 🍎 [Fitness API (Python)](https://github.com/guilhermerondon)
-*   Engine de cálculo nutricional e lógica de suplementação avançada.
+### ⚖️ [Finance Core Ledger (.NET 8)](https://github.com/guilhermerondon/finance-core-ledger)
+*   **Destaque:** Backend robusto utilizando **Repository Pattern** e segurança JWT para gestão financeira.
+
+### 🍎 [Athlete Macro API (Python)](https://github.com/guilhermerondon/athlete-macro-api)
+*   **Destaque:** Engine de cálculo nutricional de alta performance via FastAPI e Pydantic.
 
 ---
 
