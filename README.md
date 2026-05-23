@@ -32,7 +32,7 @@
 ## 🚀 Ecossistema de Projetos (Portfolio)
 
 ### 💻 [RONDON Core Interface (Angular)](https://github.com/guilhermerondon/guilhermerondon-interface)
-* **Destaque:** Arquitetura reativa de alta fidelidade com **Signals**, controle estrito de CORS e Sub-branding Dinâmico.
+* **Destaque:** Arquitetura reativa de alta fidelidade com **Signals**, controle estrito de CORS e Sub-branding dinâmico.
 * **Interface:** Design SaaS Industrial em ambiente Dark Obsidian com Glassmorphism.
 
 ### 📡 [Infrastructure Pulse / Watchdog (Go)](https://github.com/guilhermerondon/infra-watchdog-go)
