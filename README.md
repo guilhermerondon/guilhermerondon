@@ -50,10 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermerondon&bg_color=050507&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermerondon&show_icons=true&theme=dark&bg_color=050507&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&hide_border=true" alt="GitHub Stats">
-</p>
-
 ---
 
 <div align="center">
