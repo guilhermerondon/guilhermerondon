@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológica & Orquestração
+## 🛠️ Stack Tecnológica & Orquestração 
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Ecossistema de Projetos (Portfolio)
+##  Ecossistema de Projetos (Portfolio)
 
 ### 💻 [RONDON Core Interface (Angular)](https://github.com/guilhermerondon/guilhermerondon-interface)
 * **Destaque:** Arquitetura reativa de alta fidelidade com **Signals**, controle estrito de CORS e Sub-branding dinâmico.
