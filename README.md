@@ -47,12 +47,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermerondon&bg_color=050507&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-<div align="center">
   <a href="https://www.linkedin.com/in/guilherme-rondon-5476a5195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6"/></a>
   <a href="https://web.dio.me/users/worktradestudygrra?tab=achievements" target="_blank"><img src="https://img.shields.io/badge/DIO_Profile-0D1117?style=for-the-badge&logo=codeforces&logoColor=34f59c"/></a>
   <a href="mailto:guilhermerondon.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ef4444"/></a>
